@@ -1,0 +1,14 @@
+h1{
+  color: blue;
+font-family: 'Reggae One', cursive;
+}
+
+.anni:hover{
+  color: red;
+}
+.cat{
+  margin-left: 1000px;
+}
+.bot{
+  margin-left:20px;
+}
